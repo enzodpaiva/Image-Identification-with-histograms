@@ -1,7 +1,11 @@
-# Image Identification Study Project
+# Image Identification with the histograms
 ## Overview
 
 This project is an educational endeavor by me, undertaken as part of a study program to gain practical experience in computer vision and image processing techniques. The primary focus is to develop an image identification system using histogram analysis, which is a fundamental concept in computer vision.
+
+## Finding Two Similar Images
+
+One of the primary objectives of this project is to find two images that are similar to a given input image. The system will analyze the input image's histograms and compare them with the histograms of other images in the dataset. The goal is to identify and display two images from the dataset that closely resemble the input image.
 
 ## Project Objectives
 
